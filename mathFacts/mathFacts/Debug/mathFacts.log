@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\jaqueline\documents\freshman year\programing\c++\mathfacts\mathfacts\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jaqueline\documents\freshman year\programing\c++\mathfacts\mathfacts\main.cpp(14): warning C4101: 'blnAgain': unreferenced local variable
+  mathFacts.vcxproj -> C:\Users\Jaqueline\Documents\Freshman Year\programing\C++\mathFacts\Debug\mathFacts.exe
+  mathFacts.vcxproj -> C:\Users\Jaqueline\Documents\Freshman Year\programing\C++\mathFacts\Debug\mathFacts.pdb (Partial PDB)
